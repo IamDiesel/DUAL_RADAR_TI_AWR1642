@@ -1,3 +1,3 @@
 # SS_20_Kahrizi_Duong
 
-tbd
+tbd[Uploading Klassendiagramm_V2_04_ODS-Demo.pdf…]()
