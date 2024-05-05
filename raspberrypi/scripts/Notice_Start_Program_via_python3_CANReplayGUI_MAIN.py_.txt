@@ -1,0 +1,2 @@
+cd /home/pi/projects/ss_20_kahrizi_duong/raspberrypi/scripts
+python3 CANReplayGUI_MAIN.py
